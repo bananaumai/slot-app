@@ -1,5 +1,5 @@
 const items = [
-  "What's your unusual memory?",
+  "What's your unusual experience?",
   "What's your motto?",
   "What's your unpopular opinion?",
 ];
