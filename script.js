@@ -1,4 +1,9 @@
-const items = ["リンゴ", "バナナ", "オレンジ", "メロン", "イチゴ"];
+const items = [
+  "What's your unusual memory?",
+  "What's your motto?",
+  "What's your unpopular opinion?",
+  "What's your favorite quote?",
+];
 const slotWindow = document.getElementById('slotWindow');
 let animating = false;
 
