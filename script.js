@@ -2,6 +2,23 @@ const items = [
   "What's your unusual experience?",
   "What's your motto?",
   "What's your unpopular opinion?",
+  "If you could automate one part of your job, what would it be?",
+  "What's the weirdest bug you've ever encountered?",
+  "What's the most challenging technical decision you've had to make?",
+  "How do you balance technical debt with new feature development?",
+  "What's your approach to estimating project timelines?",
+  "How do you handle scope creep in your projects?",
+  "What's your strategy for keeping up with rapidly evolving technologies?",
+  "How do you promote knowledge sharing within your team?",
+  "What's your favorite design pattern and why?",
+  "How do you measure the success of a product feature?",
+  "What's your approach to prioritizing user stories in a sprint?",
+  "How do you handle conflicts between engineering and product teams?",
+  "What's your strategy for scaling a system?",
+  "How do you ensure code quality in a fast-paced environment?",
+  "What's your approach to conducting effective code reviews?",
+  "How do you balance user experience with technical constraints?",
+  "What's your method for gathering and implementing user feedback?",
 ];
 const slotWindow = document.getElementById('slotWindow');
 let animating = false;
